@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    background-image: url(https://wallpaperswide.com/download/light_background-wallpaper-1680x1050.jpg);
+}
+.fir{
+    background-color: #ED6A5A;
+    
+}
+
+.main{
+    height: 200%;
+    width: 30%;
+    align-items: center;
+    padding: 10px;
+    margin-top: 100px !important;
+    margin: auto;
+    background: linear-gradient(180deg, rgb(122, 20, 169) 36%,rgb(233, 230, 230) 36%);
+
+
+}
+
+.main1{
+    height: 100%;
+    width: 100%;
+    /* border:  solid; */
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+.edidbtn{
+    padding: 5px;
+    margin-left: 120px;
+    border: none;
+    width: 50px;
+    /* background-image: url; */
+    border-radius: 7px;
+    
+}
+
+.delbtn{
+    padding: 5px;
+    margin-left: 10px;
+    border: none;
+    width: 70px;
+    /* background-image: url; */
+    border-radius: 7px;
+}
+
+button:hover{
+    background-color: rgb(155, 122, 233);
+
+}
